@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MayTinhBang</string>
+    <string name="rdCong">Cộng</string>
+    <string name="rdTru">Trừ</string>
+    <string name="rdNhan">Nhân</string>
+    <string name="rdChia">Chia</string>
+    <string name="tvA">A</string>
+    <string name="tvB">B</string>
+    <string name="BT0">0</string>
+    <string name="BT1">1</string>
+    <string name="BT2">2</string>
+    <string name="BT3">3</string>
+    <string name="BT4">4</string>
+    <string name="BT5">5</string>
+    <string name="BT6">6</string>
+    <string name="BT7">7</string>
+    <string name="BT8">8</string>
+    <string name="BT9">9</string>
+    <string name="BTCAL">Cal</string>
+    <string name="BTRESET">RESET</string>
+    <string name="BTEXIT">EXIT</string>
+    <string name="TVKQ">Kết Quả</string>
+    <string name="PTKQ"></string>
+
+</resources>
